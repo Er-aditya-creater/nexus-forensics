@@ -70,7 +70,7 @@ Nexus Forensics solves all four problems with an explainable, accessible, privac
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/nexus-forensics.git
+git clone https://github.com/Er-aditya-creater/nexus-forensics.git
 cd nexus-forensics
 ```
 
